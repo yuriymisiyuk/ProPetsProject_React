@@ -1,0 +1,28 @@
+/*@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");*/
+
+.comingSoon > div{
+    height: 125px;
+    background: #FF6F61;
+}
+
+.love{
+    background-image: url('../images/heart.png');
+    background-repeat: no-repeat;
+    width: 114px;
+    height: 104px;
+}
+
+.comingSoon{
+    color: #FFFFFF;
+}
+
+.comingSoon .soon{
+    font-family: "Montserrat", Medium;
+    letter-spacing: 0;
+}
+
+.comingSoon .planning, .love{
+    font-family: 'Montserrat', "Segoe UI Semibold";
+    font-size: 16px;
+    letter-spacing: 0;
+}

@@ -1,0 +1,39 @@
+.passValidation{
+    letter-spacing: 0;
+    color: #BABABA;
+
+}
+
+.submitInfo{
+    letter-spacing: 0;
+    color: #BABABA;
+}
+
+.cancel{
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    letter-spacing: 0;
+    color: #84B6A3;
+    background-color: #FFFFFF;
+}
+
+.submit{
+    color: #FFFFFF;;
+    letter-spacing: 0;
+    background: #84B6A3 0 0 no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 1px solid #BABABA;
+}
+
+.line{
+    size: 1px;
+}
+
+
+
+

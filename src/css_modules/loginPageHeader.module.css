@@ -1,0 +1,23 @@
+header{
+    background-color: #669885 ;
+    box-shadow: 0 3px 6px #00000029;
+}
+.header{
+    height: 100px;
+}
+
+header button{
+    border: 1px solid #FFFFFF;
+    border-radius: 17px;
+    background-color: #669885;
+    color: #FFFFFF;
+    outline: none;
+}
+
+header button:hover{
+    background-color: #FFE18B;
+}
+
+*:focus {
+    outline: 0 !important;
+}

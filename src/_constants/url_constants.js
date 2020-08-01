@@ -1,0 +1,1 @@
+export const base_accounting_url = 'https://propetsdreamteamaccounting.herokuapp.com';

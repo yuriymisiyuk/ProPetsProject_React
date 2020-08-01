@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+footer .main_footer{
+    background: #669885;
+}
+
+footer p{
+    font-family: "Montserrat", Medium;
+    font-size: 12px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+}
+
+footer ul{
+    list-style: none;
+}
+
+.listActivities{
+    font-family: "Montserrat", Medium;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #FFFFFF;
+}

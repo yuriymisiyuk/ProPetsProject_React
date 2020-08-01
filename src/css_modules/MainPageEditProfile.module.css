@@ -1,0 +1,28 @@
+.border{
+    box-shadow: 0 3px 6px #00000029;
+}
+
+.color{
+    color: #669885;
+}
+
+.font{
+    font-size: larger;
+}
+
+.cancel{
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+    letter-spacing: 0;
+    color: #84B6A3;
+    background-color: #FFFFFF;
+}
+
+.save{
+    color: #FFFFFF;;
+    letter-spacing: 0;
+    background: #84B6A3 0 0 no-repeat padding-box;
+    border: 1px solid #8DBFAC;
+    border-radius: 17px;
+}
+

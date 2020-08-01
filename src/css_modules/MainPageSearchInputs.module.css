@@ -1,0 +1,14 @@
+/*.style_input{*/
+/*   height: 40px;*/
+/*}*/
+
+.style_input input{
+    border: 1px solid #8DBFAC;
+    border-radius: 1.5em;
+    height: 30px;
+    color: #84B6A3;;
+}
+
+.style_input ::placeholder{
+    color: #84B6A3;
+}

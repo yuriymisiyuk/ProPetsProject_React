@@ -1,0 +1,65 @@
+/*@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");*/
+
+main {
+    height: 623px;
+    background-image: url("../images/Image2.png") ;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+
+}
+main > div{
+    height: 100%;
+}
+.main_title{
+    text-align: left;
+    font-family: 'Montserrat', Medium, serif;
+    letter-spacing: 0;
+    font-size: 5vw;
+}
+
+.main_title span{
+    color: #84B6A3;
+}
+
+.lost{
+    width: 100%;
+    height: 93px;
+    background: #FFE18B;
+    padding-top: 15px;
+}
+
+.join{
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+.join > a{
+    text-decoration: underline;
+    letter-spacing: 0;
+    color: #84B6A3;
+    text-transform: uppercase;
+}
+
+.lost img{
+    width: 79px;
+    height: 81px;
+    margin-right: 2px;
+    float: right;
+}
+
+.found{
+    width: 75%;
+    height: 93px;
+    background: #84B6A3
+}
+
+.lost, .found{
+    border: none;
+    border-radius: 0 50px 50px 0;
+    letter-spacing: 0px;
+    color: #393939;
+    font-family: 'Montserrat', Medium;
+    font-size: 4vw;
+}

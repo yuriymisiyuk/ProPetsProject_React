@@ -1,0 +1,19 @@
+.descriptionList h4{
+    font-family: 'Montserrat', "Segoe UI Semibold", serif;
+    letter-spacing: 0;
+    color: #669885;
+}
+
+.descriptionList li{
+    margin-left: -10px;
+    padding: 10px 0 10px 40px;
+    list-style: none;
+    background-image: url("../images/circle2.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 14px;
+    font-family: 'Montserrat', Medium, serif ;
+    font-size: 18px;
+    letter-spacing: 0;
+    color: #393939;
+}

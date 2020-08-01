@@ -1,0 +1,10 @@
+header{
+    background-color: #FFFFFF;
+    height: 70px;
+    box-shadow: 0 3px 6px #00000029;
+}
+
+.imgFilter{
+    filter: drop-shadow(5px 5px 3px #669885);
+}
+
