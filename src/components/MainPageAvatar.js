@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageAvatar.module.css";
+import style from "../css_modules/mainPageAvatar.module.css";
 import {connect} from "react-redux";
 import userActions from "../actions/user.actions";
 import {alertActions} from "../actions/alert.actions";

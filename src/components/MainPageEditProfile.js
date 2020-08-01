@@ -1,6 +1,6 @@
 import React, {createRef} from "react";
 import userActions from "../actions/user.actions";
-import style from "../css_modules/MainPageEditProfile.module.css";
+import style from "../css_modules/mainPageEditProfile.module.css";
 import {connect} from "react-redux";
 import {Spinner} from "react-bootstrap";
 import Editable from "./Editable";

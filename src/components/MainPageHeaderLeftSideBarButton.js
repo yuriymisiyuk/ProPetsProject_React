@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageHeaderLeftSideBarButton.module.css";
+import style from "../css_modules/mainPageHeaderLeftSideBarButton.module.css";
 
 class MainPageHeaderLeftSideBarButton extends React.Component{
     constructor(props) {

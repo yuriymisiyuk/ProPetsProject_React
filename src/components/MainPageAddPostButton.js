@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageAddPostButton.module.css"
+import style from "../css_modules/mainPageAddPostButton.module.css"
 
 class MainPageAddPostButton extends React.Component{
 

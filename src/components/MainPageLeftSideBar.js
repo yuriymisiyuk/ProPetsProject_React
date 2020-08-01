@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageLeftSideBar.module.css";
+import style from "../css_modules/mainPageLeftSideBar.module.css";
 import MainPageNavBar from "./MainPageNavBar";
 import MainPageLeftSideBarProfile from "./MainPageLeftSideBarProfile";
 import MainPageLogOut from "./MainPageLogOut";

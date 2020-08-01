@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import style from "../css_modules/MainPageListMapViewButton.module.css";
+import style from "../css_modules/mainPageListMapViewButton.module.css";
 
 function MainPageListMapViewButton(props){
 

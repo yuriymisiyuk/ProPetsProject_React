@@ -1,5 +1,5 @@
 import React from "react";
-import style from '../css_modules/StartLoginPageHeader.module.css';
+import style from '../css_modules/startLoginPageHeader.module.css';
 import {history} from "../helpers/history";
 
 class StartLoginPageHeader extends React.Component{

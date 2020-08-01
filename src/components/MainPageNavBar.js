@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageNavBar.module.css";
+import style from "../css_modules/mainPageNavBar.module.css";
 import {NavLink} from "react-router-dom";
 import MainPageLeftSideBarProfile from "./MainPageLeftSideBarProfile";
 

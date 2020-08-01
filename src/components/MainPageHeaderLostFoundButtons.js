@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageHeaderLostFoundButtons.module.css";
+import style from "../css_modules/mainPageHeaderLostFoundButtons.module.css";
 
 
 class MainPageHeaderLostFoundButtons extends React.Component{

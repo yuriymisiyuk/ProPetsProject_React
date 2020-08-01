@@ -1,7 +1,7 @@
 import React from "react";
 import MainPageLeftSideBar from "./MainPageLeftSideBar";
 import MainPageHeader2 from "./MainPageHeader2";
-import style from "../css_modules/MainPageCentralContainer.module.css";
+import style from "../css_modules/mainPageCentralContainer.module.css";
 import {Route, Switch} from "react-router-dom";
 import MainPageHome from "./MainPageHome";
 import MainPageLost from "./MainPageLost";

@@ -1,6 +1,6 @@
 import React from "react";
 import MainPageEditProfile from "./MainPageEditProfile";
-import style from "../css_modules/MainPageManageProfile.module.css";
+import style from "../css_modules/mainPageManageProfile.module.css";
 import MainPageUserActivities from "./MainPageUserActivities";
 import HorizontalNavBarWithTwoLinks from "./HorizontalNavBarWithTwoLinks";
 import {Route, Switch} from "react-router-dom";

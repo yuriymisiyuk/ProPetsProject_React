@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageRightSideBar.module.css";
+import style from "../css_modules/mainPageRightSideBar.module.css";
 
 class MainPageRightSideBar extends React.Component{
     constructor(props) {

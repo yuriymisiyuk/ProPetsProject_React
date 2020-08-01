@@ -1,5 +1,5 @@
 import React from "react";
-import style from "../css_modules/MainPageLost.module.css";
+import style from "../css_modules/mainPageLost.module.css";
 import MainPageLostPostsTape from "./MainPageLostPostsTape";
 import MainPageSearchInputs from "./MainPageSearchInputs";
 import MainPageMapContainer from "./MainPageMapContainer";
